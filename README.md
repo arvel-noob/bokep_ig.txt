@@ -3,7 +3,7 @@
 * [<img alt="arvel-noob Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /><b>WhatsApp</b>](https://wa.me/6283843614174?text=Asalamualaikum+Mas+ganteng+baik+sopan+lucu+imut+ngangenin)<br>
  
 ## KASIH BINTANG 🌟🌟🌟🌟🌟🌟🌟
-![Mengetik SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang
+![Mengetik SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+) 
 
 - pkg update
 - pkg upgrade
