@@ -9,8 +9,8 @@
 - pip install bs4
 - rm -rf FREE
 - git clone https://github.com/arvel-noob/bokep_ig.txt
-- cd 
-- python ijo.py
+- cd bokep_ig.txt
+- python igmeta_.py
     
 
 ```This Tools is Free Enjoy ```</br>
